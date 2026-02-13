@@ -1,5 +1,5 @@
 
- https://multi-ai-agent-news-summarizer.streamlit.app/
+Deployed app:  https://multi-ai-agent-news-summarizer.streamlit.app/
  
  🚀 Multi-Agent AI Global Intelligence Brief Generator
 
