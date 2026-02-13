@@ -1,9 +1,9 @@
  
-🚀 Multi-Agent AI Global News Brief Generator
+#🚀 Multi-Agent AI Global News Brief Generator
 
 An Advanced Multi-Agent AI System for Generating Ultra-Strict, Structured, and Verified Global Intelligence Briefs using Groq LLaMA 3.1
 
-🌍 Overview
+#🌍 Overview
 
 Multi-Agent AI News Brief Summarizer is a production-ready AI application built using a modular multi-agent architecture that autonomously generates structured global intelligence reports.
 
